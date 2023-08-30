@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Intro- Welcome",
+      "body": "Have you ever carried a secret deep within, wishing for a way to unburden your thoughts without the weight of judgment? Welcome to The Gossip Blog; a place for digital haven where gossip and confessions are shared, unburdened, and celebrated. Life is a journey of experiences, both light and dark. Every individual has stories and moments that shape their path. This platform provides a space where you can release your confessions, free from the constraints of identity. From the heartwarming to the heart-wrenching, every confession has a place here.",
+      "author": "A friend",
+      "id": 1
+    },
+    {
+      "title": "A petty revenge",
+      "body": "My ex broke up with me about a month before the finale of his favourite Netflix show hit. He'd organised a viewing party ready for midnight when it dropped. I let him stay signed in on my account until 11:59PM that day, when I changed the password & forced logout on all devices",
+      "author": "Anonymous",
+      "id": 2
+    }
+  ]
+}
